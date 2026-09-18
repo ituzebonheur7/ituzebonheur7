@@ -50,7 +50,7 @@ I'm **Ituze Bonheur**, a student and developer who enjoys building things, learn
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://ituzebonheur.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://ituzebonheur.vercel.app/images/site.svg" alt="Portfolio" />
   </a>
   <a href="mailto:ituzebonheurib@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
